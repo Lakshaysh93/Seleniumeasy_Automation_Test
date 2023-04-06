@@ -1,5 +1,5 @@
 # Overview
-+ The Project is buit using Python and installing selenium tool to perform Automation and testing.
++ The Project is built using Python and installing selenium tool to perform Automation and testing.
 
 ## 1. Technologies Used:
 + Following technologies are used in building the project:
