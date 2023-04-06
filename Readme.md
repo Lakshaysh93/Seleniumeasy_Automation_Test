@@ -5,7 +5,7 @@
 + Following technologies are used in building the project:
 
 ### I. Language : Python 3.0
-+ The latest python can be installed from [Python](https://www.python.org/downloads/ target="_blank").
++ The latest python can be installed from [Python](https://www.python.org/downloads/).
 
 ### II. Platform : Sublime Text
 + Sublime text is used to write code but any tool like Visual studio code or Pycharm can be used.
